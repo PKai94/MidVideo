@@ -8,4 +8,4 @@ Features: AI Text to Image, Image to Image, Video to anime, MidJourney video gen
 
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
 
-kaipham279@gmail.com - KThinking
+kaipham94@gmail.com - KaiPha
